@@ -1,0 +1,4 @@
+﻿  All_c.cpp
+C:\Users\Karol\source\repos\Customer\Customer\All_c.cpp(61,33): warning C4101: 'e': unreferenced local variable
+C:\Users\Karol\source\repos\Customer\Customer\All_c.cpp(82,33): warning C4101: 'e': unreferenced local variable
+  Customer.vcxproj -> C:\Users\Karol\source\repos\Customer\x64\Debug\Customer.exe
